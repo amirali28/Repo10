@@ -2,7 +2,7 @@
 var myPet = {
     species: "Fish",
     name : "Goldfish",
-    legs: "0",
+    legs: 1,
     friends: ["Dojo Loach", "Ricefish"]
 }
 function myFunction(myObj){

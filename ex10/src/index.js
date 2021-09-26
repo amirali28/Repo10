@@ -20,9 +20,9 @@ function myFunction() {
         2: "Digital",
         3: "Vinyl",
       },
-      gold: true,
     },
   };
+  return myMusic;
 }
 myFunction()[2];
 module.exports = myFunction;
